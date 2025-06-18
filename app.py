@@ -1,4 +1,5 @@
 import pygame
+import sys
 
 SIZE = 300
 
@@ -90,7 +91,7 @@ def gameEnd(board):
     pygame.display.flip()
     pygame.time.wait(2000)
     pygame.quit()
-    exit()
+    sys.exit()
 
 
 def board_full(board):
