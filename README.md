@@ -12,6 +12,10 @@ This project implements the classic game of Tic-Tac-Toe, featuring an unbeatable
 * **Modular Code:** Designed with clear separation of concerns for game logic, AI logic, and user interface.
 
 ---
+## User Interface
+
+![Image 1](image1.png)
+![Image 2](image2.png)
 
 ## Technologies Used
 * **Python language**
