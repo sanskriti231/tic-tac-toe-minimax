@@ -14,8 +14,8 @@ This project implements the classic game of Tic-Tac-Toe, featuring an unbeatable
 ---
 ## User Interface
 
-![Image 1](image1.png)
-![Image 2](image2.png)
+![Image 1](images/image1.png)
+![Image 2](images/image2.png)
 
 ## Technologies Used
 * **Python language**
